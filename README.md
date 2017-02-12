@@ -1,5 +1,5 @@
 # Association Rule Mining
-Business Problem You are already familiar with the “Global Mart” online store. It's an online store that caters to customers from across the globe. As the marketing manager of the store, you want to figure out the most frequently occurring combination of the items that are bought together. This would enable you to recommend the related items to a customer, once he makes a purchase in the store. 
+Business Problem: “Global Mart” online store is an online store that caters to customers from across the globe. As the marketing manager of the store, you want to figure out the most frequently occurring combination of the items that are bought together. This would enable you to recommend the related items to a customer, once he makes a purchase in the store. 
 
 As you would see, each row of the dataset represents an item of the order. However, the Order ID is not unique. Thus, the different items ordered at a time figure in different rows with the same Order ID. The number of unique products is too large a number to provide meaningful insight. Thus, the most relevant attribute to analyse would be the "Sub-Category" of the products.
  
